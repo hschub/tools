@@ -1,11 +1,10 @@
 # Atomi tools 🔩
 
-![](insomnia/the-remote-wrangler.jpg)
-—<https://www.businessinsider.com.au/stupid-gadgets-2011-11?r=US&IR=T#the-remote-wrangler-7>
-
 A repo of tools for making day-to-day development easier at Atomi.
 
-**Don't be a tool and share your tools 👅.**
+Don't be a tool and share your tools 👅. Tools such as the **The remote wrangler:**
+
+![The remote wrangler](insomnia/the-remote-wrangler.jpg)
 
 ## Table of contents
 
@@ -28,7 +27,7 @@ Lets share our data:
 2.  **Export Data:** choose Insomnia (json) format and name the file after yourself.
 3.  Put the file in the [insomnia folder](insomnia).
 
-![](insomnia/export-data-screenshot.png)
+![Screenshot showing the Insomnia Preferences dialog](insomnia/export-data-screenshot.png)
 
 ## Editors
 
